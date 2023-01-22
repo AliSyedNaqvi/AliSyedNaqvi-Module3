@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	text-align: center;
+	color: black;
+	margin-bottom: 50px;
+}
+
+.navbar {
+	border: none;
+	background-color: black;
+	color: lightgrey;
+	width: 100%;
+}
+
+body {
+	background-color: white;
+}
+
+.glyphicon {
+	font-size: 30px;
+	color: lightgrey; 
+}
+
+.center {
+	width: 90%;
+}
+
+.container {
+	background-color: lightgrey;
+	border: 1px solid black;
+	margin-bottom: 15px;
+}
+
+.text-center {
+	font-size: 30px;
+}
+
+h2 {
+	text-align: center;
+}
+
+#myNavbar ul li a {
+	color: white;
+}
+
+.navbar-brand {
+	font-size: 30px;	
+}
+
+@media (max-width: 768px) {
+	li {
+		text-align: center;
+	}
+}
